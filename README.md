@@ -1,34 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to My Page!
 
 I don't have any projects here **Bold**currently, but I will add some soon!
 
-### Markdown
+### Classes Take SO Far
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
-- List
+CS121
+CS221
+CS253
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/austenhale/austenhale.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This page uses the hacker theme.
 
 ### Support or Contact
 
