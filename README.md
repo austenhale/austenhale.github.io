@@ -6,11 +6,10 @@ I don't have any projects here **Bold**currently, but I will add some soon!
 
 
 
-- Bulleted
-CS121
-CS221
-CS253
-
+- CS121
+- CS221
+- CS253
+- CSHU153
 
 ### Jekyll Themes
 
