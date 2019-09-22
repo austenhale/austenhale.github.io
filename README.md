@@ -1,8 +1,9 @@
 ## Welcome to My Page!
 
-I don't have any projects here **Bold**currently, but I will add some soon!
+I don't have any projects here **currently**, but I will add some soon!
+there's cs121 projects now
 
-### Classes Take SO Far
+### Classes Taken SO Far
 
 
 
@@ -17,4 +18,4 @@ This page uses the hacker theme.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+austenhale@u.boisestate.edu
